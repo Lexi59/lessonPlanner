@@ -1,0 +1,29 @@
+{
+  "name": "lessonplanner",
+  "version": "1.0.0",
+  "description": "Lesson Planning App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lexi59/lessonPlanner.git"
+  },
+  "keywords": [
+    "lessonplanner",
+    "teacher",
+    "teaching",
+    "lessons"
+  ],
+  "author": "Alexis VanderWilt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lexi59/lessonPlanner/issues"
+  },
+  "homepage": "https://github.com/Lexi59/lessonPlanner#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
